@@ -1,0 +1,70 @@
+body {
+  background-color: rgba(0, 0, 0, 0.699); /* Light gray background */
+  font-family: Arial, sans-serif; /* Set a nice font */
+  background-image: url("images/bg1.jpg");
+}
+
+footer a {
+  color: black;
+  text-decoration: none;
+}
+
+footer {
+  background-image: url("images/hd1.jpg");
+  padding: 10px;
+  text-decoration: none;
+}
+
+h1 {
+  /* display: flex;
+  align-items: center; */
+  text-align: center; /* Center the title */
+  color: #333; /* Dark gray for title */
+  margin-bottom: 20px; /* Add some space below the title */
+  min-height: 100px;
+}
+
+p {
+  text-align: center; /* Center the paragraph */
+  font-size: 16px; /* Set font size for the paragraph */
+}
+
+#friend-select {
+  margin: 0 auto; /* Center the select box horizontally */
+  display: block; /* Ensure it fills available space */
+  padding: 10px; /* Add some padding for aesthetics */
+  border: 1px solid #ccc; /* Light gray border */
+  border-radius: 5px; /* Add rounded corners */
+}
+
+#message {
+  margin: 50px auto; /* Add some space around the message */
+  width: 50%; /* Set a width for the message area */
+  min-height: 500px;
+  width: auto;
+  padding: 15px; /* Add padding for the message */
+  text-align: center; /* Center the message content */
+  background-image: url("images/Birthday.gif");
+  background-repeat: no-repeat;
+  background-size: content;
+  background-position: center;
+}
+
+/* 
+.birthday {
+  background-image: url("images/bg2.jpg"); 
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+.default {
+  background-image: url("images/pic4.jpeg");
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+.no-selection {
+  background-image: url("images/bg3.jpeg"); 
+  background-repeat: no-repeat;
+  background-position: center; 
+} */
