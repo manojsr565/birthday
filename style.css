@@ -1,7 +1,7 @@
 body {
   background-color: rgba(0, 0, 0, 0.699); /* Light gray background */
   font-family: Arial, sans-serif; /* Set a nice font */
-  background-image: url("images//bg1.jpg");
+  background-image: url("Images//bg1.jpg");
 }
 
 footer a {
@@ -10,7 +10,7 @@ footer a {
 }
 
 footer {
-  background-image: url("images//hd1.jpg");
+  background-image: url("images/hd1.jpg");
   padding: 10px;
   text-decoration: none;
 }
