@@ -5,7 +5,7 @@ const bodyElement = document.body; // Reference the body element
 // Define image paths for different scenarios
 const birthdayImagePath = 'Images//bd2.gif'; // Path to birthday background image
 const defaultImagePath = 'Images//waiting.gif'; // Path to default background image
-const noSelectionImagePath = 'Images//birthday.gif'; // Path to no selection background image
+const noSelectionImagePath = 'Images//Birthday.gif'; // Path to no selection background image
 
 friendSelect.addEventListener('change', function() {
   const selectedFriend = this.value;
