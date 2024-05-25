@@ -46,7 +46,7 @@ p {
   text-align: center; /* Center the message content */
   background-image: url("Images//Birthday.gif");
   background-repeat: no-repeat;
-  background-size: content;
+  background-size: contain;
   background-position: center;
 }
 
