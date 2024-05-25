@@ -25,7 +25,7 @@ friendSelect.addEventListener('change', function() {
     // Check for birthday in current year
     if (friendBirthdayMonth === currentMonth && friendBirthdayDay === currentDay) {
       // Today is the friend's birthday!
-      messageDiv.textContent = `Happy Birthday, ${friendName}! Stay amazing as you are🥳🎉🎊`;
+      messageDiv.textContent = `Happy Birthday, ${friendName}! Wishing you a wonderful day and even more amazing year ahead 🥳🎉`;
       messageDiv.style.backgroundImage = `url(${birthdayImagePath})`; // Set birthday background image
       messageDiv.style.backgroundRepeat ='no-repeat';
       messageDiv.style.backgroundSize = "content";
